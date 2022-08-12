@@ -1,23 +1,14 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
-  <div class="row justify-content-center">
-    <div class="col-md-8">
-      <div class="card">
-        <div class="card-header">{{ __('Dashboard') }}</div>
-
-        <div class="card-body">
-          @if (session('status'))
-              <div class="alert alert-success" role="alert">
-                  {{ session('status') }}
-              </div>
-          @endif
-
-          THIS IS GONNA BE GOOD
-        </div>
-      </div>
-    </div>
+<div class="continer-fluid">
+  <div class="container d-flex">
+    <h1 class="h5 mr-3">
+      Geotechnical Engineering
+    <h1>
+    <h2 class="h6 text-muted">
+      Expert Engineering
+    </h2>
   </div>
 </div>
 @endsection
