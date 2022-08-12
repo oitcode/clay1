@@ -14,12 +14,20 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/', function () {
     return view('main');
-});
+})->name('main');
+
+Route::get('/aboutus', function () {
+    return view('aboutus');
+})->name('aboutus');
+
+Route::get('/portfolio', function () {
+    return view('portfolio');
+})->name('portfolio');
+
+Route::get('/contactus', function () {
+    return view('contactus');
+})->name('contactus');
 
 Auth::routes();
 

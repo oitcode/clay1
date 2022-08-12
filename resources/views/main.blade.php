@@ -3,13 +3,12 @@
 @section('content')
 <div class="continer-fluid">
   <div class="container d-flex">
-    <i class="fas fa-plus fa-2x"></i>
-    <h1 class="h5 mr-3">
-      Geotechnical Engineering
+    <i class="fas fa-dice-d6 fa-2x mr-3"></i>
+    <h1 class="h4 mr-3">
+      Clay Engineering
     <h1>
-    <h2 class="h6 text-muted">
-      Expert Engineering
-    </h2>
+
+    @include ('partials.top-menu-act')
   </div>
 </div>
 @endsection
