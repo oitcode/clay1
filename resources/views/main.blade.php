@@ -3,6 +3,7 @@
 @section('content')
 <div class="continer-fluid">
   <div class="container d-flex">
+    <i class="fas fa-plus fa-2x"></i>
     <h1 class="h5 mr-3">
       Geotechnical Engineering
     <h1>
