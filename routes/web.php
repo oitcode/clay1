@@ -21,6 +21,10 @@ Route::get('/aboutus', function () {
     return view('aboutus');
 })->name('aboutus');
 
+Route::get('/services', function () {
+    return view('services');
+})->name('services');
+
 Route::get('/portfolio', function () {
     return view('portfolio');
 })->name('portfolio');
