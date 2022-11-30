@@ -1,10 +1,10 @@
 <div>
 
-  <div class="container-fluid border bg-light d-none d-md-block">
+  <div class="container-fluid border bg-danger-rm d-none d-md-block" style="background-color: #002;">
     <div class="container py-2">
       <div class="float-left mr-5 mt-2" style="font-size: 1rem; font-weight: bold;">
         <div class="d-flex justify-content-center h-100">
-          <div class="justify-content-center h-100 align-self-center text-center text-secondary">
+          <div class="justify-content-center h-100 align-self-center text-center text-white">
             @if (false)
             <span class="bad badge-pill badge-success mr-3">
               Call
