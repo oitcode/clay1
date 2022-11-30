@@ -2,13 +2,15 @@
 
   <div class="container-fluid border bg-light d-none d-md-block">
     <div class="container py-2">
-      <div class="float-right mr-5 mt-2" style="font-size: 1rem; font-weight: bold;">
+      <div class="float-left mr-5 mt-2" style="font-size: 1rem; font-weight: bold;">
         <div class="d-flex justify-content-center h-100">
           <div class="justify-content-center h-100 align-self-center text-center text-secondary">
+            @if (false)
             <span class="bad badge-pill badge-success mr-3">
               Call
             </span>
-            <i class="fas fa-phone mr-3"></i>
+            @endif
+            <i class="fas fa-phone mr-2"></i>
             +977 9841223344
           </div>
         </div>
@@ -98,7 +100,7 @@
           @if (false)
           <img src="{{ asset('img/logo_1.jpg') }}" class="img-fluid" style="height: 80px;">
           @endif
-          <i class="fas fa-dice-d6 fa-2x mr-3"></i>
+          <i class="fas fa-dice-d6 fa-6x mr-3"></i>
         </div>
         <div class="float-left mt-3 d-none d-md-block">
           <h1 class="mt-2 text-dark" style="font-weight: bold; font-size: 2rem;">Clay Engg</h1>

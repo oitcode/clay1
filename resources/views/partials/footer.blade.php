@@ -1,10 +1,10 @@
 <div>
   <div class="row">
   
-    <div class="col-md-4" style="font-size: 1.5rem;">
+    <div class="col-md-4" style="font-size: 1.3rem;">
       <div class="mb-2">
         <i class="fas fa-map-marker-alt mr-3"></i>
-        Clay Engg
+        Clay Engineering Pvt Ltd
       </div>
       <div class="mb-1" style="font-size: 1rem;">
         <i class="fas fa-phone mr-3"></i>
@@ -74,7 +74,6 @@
     @endif
   </div>
   <div class="text-center-rm mt-4">
-    &copy; 2022
-    OIT
+    &copy; 2022 | Website developed by OIT
   </div>
 </div>

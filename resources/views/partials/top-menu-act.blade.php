@@ -1,4 +1,4 @@
-<div class="bg-white py-2-rm text-right mb-3 border-bottom-rm">
+<div class="bg-white py-2-rm text-right mb-3-rm border-bottom-rm">
 
   {{-- Top menu buttons. --}}
 

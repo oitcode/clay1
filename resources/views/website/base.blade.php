@@ -18,6 +18,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/custom-style.css') }}" rel="stylesheet">
 
     <!-- FB OG Meta tags -->
     @yield('fbOgMetaTags')
@@ -44,6 +45,15 @@
     @include ('partials.header')
     @endif
 
+    {{-- Top Menu --}}
+    @if (true)
+    <div class="container-fluid border mb-4-rm">
+      <div class="container">
+        @include ('partials.top-menu-act')
+      </div>
+    </div>
+    @endif
+
     {{-- Top navigation menu --}}
     {{-- Product category menu --}}
     @if (false)
@@ -54,7 +64,7 @@
     @yield('content')
 
     {{-- Footer --}}
-    <div class="container-fluid bg-light-rm border pt-4 pb-5 text-white-rm" style="background-color: #eee;">
+    <div class="container-fluid bg-primary-rm border-top pt-4 pb-5 text-white" style="background-color: #002;">
       <div class="container">
         @include ('partials.footer')
       </div>
