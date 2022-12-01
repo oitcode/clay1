@@ -1,5 +1,4 @@
 @extends('website.base')
-
 @section('content')
 <div class="continer-fluid o-top-page-banner">
   <div class="o-overlay text-white">
