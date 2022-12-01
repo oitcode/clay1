@@ -67,7 +67,7 @@
 
     @if (true)
     <div class="col-md-4" style="font-size: 1rem;">
-      <div class="text-secondary">
+      <div class="text-white">
         Just do it!
       </div>
     </div>
