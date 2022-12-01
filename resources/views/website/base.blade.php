@@ -64,7 +64,7 @@
     @yield('content')
 
     {{-- Footer --}}
-    <div class="container-fluid bg-primary-rm border-top pt-4 pb-5 text-white" style="background-color: #002;">
+    <div class="container-fluid bg-primary-rm border-top pt-4 pb-5 text-white" style="background-color: #101530;">
       <div class="container">
         @include ('partials.footer')
       </div>
