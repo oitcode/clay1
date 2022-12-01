@@ -2,7 +2,7 @@
   <a href="{{ route($btnRoute) }}"
       class="btn
              @if(Route::current()->getName() == $btnRoute)
-               btn-danger
+               btn-primary
              @else
                btn-light
                text-secondary

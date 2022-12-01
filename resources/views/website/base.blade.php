@@ -46,7 +46,7 @@
     @endif
 
     {{-- Top Menu --}}
-    @if (true)
+    @if (false)
     <div class="container-fluid border mb-4-rm">
       <div class="container">
         @include ('partials.top-menu-act')
