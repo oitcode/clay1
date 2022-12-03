@@ -46,7 +46,7 @@
               Phone
             </div>
             <div class="h5" style="font-weight: bold;">
-              +977 1 4423145
+              +977 9841871994
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
               Email
             </div>
             <div class="h5" style="font-weight: bold;">
-              clay.engineering@gmail.com
+              clayengg12@gmail.com
             </div>
           </div>
         </div>

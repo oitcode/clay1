@@ -7,15 +7,15 @@
       </div>
       <div class="mb-2">
         <i class="fas fa-map-marker-alt mr-3"></i>
-        Clay Engineering Pvt Ltd
+        Clay Engineering Consultancy
       </div>
       <div class="mb-1" style="font-size: 1rem;">
         <i class="fas fa-phone mr-3"></i>
-        +977 9841223344
+        +977 9841871994
       </div>
       <div class="mb-1" style="font-size: 1rem;">
         <i class="fas fa-envelope mr-3"></i>
-        clay@gmail.com
+        clayengg12@gmail.com
       </div>
       <div class="mb-4" style="font-size: 1rem;">
         <i class="fas fa-map-marker-alt mr-3"></i>
@@ -66,10 +66,6 @@
       </div>
       <div class="mb-2">
         <i class="fas fa-angle-right mr-2"></i>
-        Construction works
-      </div>
-      <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
         Geotechnical investigation
       </div>
       <div class="mb-2">
@@ -87,6 +83,10 @@
       <div class="mb-2">
         <i class="fas fa-angle-right mr-2"></i>
         Topographical survey
+      </div>
+      <div class="mb-2">
+        <i class="fas fa-angle-right mr-2"></i>
+        Construction supervision
       </div>
     </div>
 
@@ -128,6 +128,6 @@
   <hr />
 
   <div class="text-center-rm mt-4">
-    &copy; 2022 | Clay Engineering Pvt Ltd | All rights reserved
+    &copy; 2022 | Clay Engineering Consultancy Pvt Ltd | All rights reserved
   </div>
 </div>

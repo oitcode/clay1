@@ -40,7 +40,7 @@
       <div class="float-right mr-4">
         <i class="fas fa-phone text-primary mr-2"></i>
         <span class="text-secondary" style="font-family: Arial;">
-          +977 4434161
+          +977 9841871994
         </span>
       </div>
 

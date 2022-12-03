@@ -136,7 +136,7 @@
           <div class="card-body" style="background-color: #d9f1ff;">
             <i class="fas fa-heart fa-2x text-primary"></i>
             <h2 class="h3 mt-3 mb-4" style="color: #004; font-family: Arial; font-weight: bold;">
-              Construction works
+              Construction supervision
             </h2>
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
