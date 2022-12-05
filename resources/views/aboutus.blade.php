@@ -74,96 +74,13 @@
   </div>
 </div>
 
+{{-- Directors message --}}
+@include ('partials.directors-message')
+
+{{-- Mission vision objective --}}
+@include ('partials.our-mission')
+
 {{-- Why Choose use --}}
-<div class="container-fluid bg-primary">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 py-5 text-white">
-        <span class="border badge badge-pill" style="font-size: 1.3rem;">
-        Features
-        </span>
+@include ('partials.why-choose-us')
 
-        <h2 class="h1 mt-3 mb-4" style="font-family: Arial; font-weight: bold;">
-          Why choose us
-        </h2>
-
-        <p class="h5 mb-5">
-          Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-          Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-          sed stet lorem sit clita duo justo magna dolore erat amet
-        </p>
-
-        <div class="row mb-4">
-          <div class="col-md-6">
-            <div class="d-flex">
-              <div class="d-flex flex-column justify-content-center">
-                <i class="fas fa-check-circle fa-2x mr-3"></i>
-              </div>
-              <div>
-                <div class="h5 mb-2">
-                  Experienced
-                </div>
-                <div class="h4" style="font-weight: bold;">
-                  Engineers
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="d-flex">
-              <div class="d-flex flex-column justify-content-center">
-                <i class="fas fa-check-circle fa-2x mr-3"></i>
-              </div>
-              <div>
-                <div class="h5 mb-2">
-                  Quality
-                </div>
-                <div class="h4" style="font-weight: bold;">
-                  Service
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row mb-3">
-          <div class="col-md-6">
-            <div class="d-flex">
-              <div class="d-flex flex-column justify-content-center">
-                <i class="fas fa-check-circle fa-2x mr-3"></i>
-              </div>
-              <div>
-                <div class="h5 mb-2">
-                  Valuable
-                </div>
-                <div class="h4" style="font-weight: bold;">
-                  Consultation
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="d-flex">
-              <div class="d-flex flex-column justify-content-center">
-                <i class="fas fa-check-circle fa-2x mr-3"></i>
-              </div>
-              <div>
-                <div class="h5 mb-2">
-                  Professional
-                </div>
-                <div class="h4" style="font-weight: bold;">
-                  Support
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-6">
-        <img src="{{ asset('img/bg-image-2.jpg') }}" class="img-fluid">
-      </div>
-    </div>
-  </div>
-</div>
 @endsection
