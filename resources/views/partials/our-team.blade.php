@@ -16,9 +16,8 @@
       {{-- Card 1 --}}
       <div class="col-md-3">
         <div class="card">
-          <div class="card-body" style="background-color: #d9f1ff;">
-            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid">
-
+          <div class="card-body p-0" style="background-color: #d9f1ff;">
+            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
             <h3 class="h5 text-center text-secondary">
               Senior Engineer
@@ -30,9 +29,8 @@
       {{-- Card 2 --}}
       <div class="col-md-3">
         <div class="card">
-          <div class="card-body" style="background-color: #d9f1ff;">
-            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid">
-
+          <div class="card-body p-0" style="background-color: #d9f1ff;">
+            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
             <h3 class="h5 text-center text-secondary">
               Senior Engineer
@@ -44,9 +42,8 @@
       {{-- Card 3 --}}
       <div class="col-md-3">
         <div class="card">
-          <div class="card-body" style="background-color: #d9f1ff;">
-            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid">
-
+          <div class="card-body p-0" style="background-color: #d9f1ff;">
+            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
             <h3 class="h5 text-center text-secondary">
               Senior Engineer
@@ -58,9 +55,8 @@
       {{-- Card 4 --}}
       <div class="col-md-3">
         <div class="card">
-          <div class="card-body" style="background-color: #d9f1ff;">
-            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid">
-
+          <div class="card-body p-0" style="background-color: #d9f1ff;">
+            <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
             <h3 class="h5 text-center text-secondary">
               Senior Engineer
