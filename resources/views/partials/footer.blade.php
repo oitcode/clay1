@@ -95,31 +95,31 @@
         Quick Links
       </div>
       <div class="mb-2">
-        <a href="{{ route('main') }}" class="text-white">
+        <a href="{{ route('main') }}" class="text-white text-decoration-none">
           <i class="fas fa-angle-right mr-2"></i>
           Home
         </a>
       </div>
       <div class="mb-2">
-        <a href="{{ route('aboutus') }}" class="text-white">
+        <a href="{{ route('aboutus') }}" class="text-white text-decoration-none">
           <i class="fas fa-angle-right mr-2"></i>
           About us
         </a>
       </div>
       <div class="mb-2">
-        <a href="{{ route('services') }}" class="text-white">
+        <a href="{{ route('services') }}" class="text-white text-decoration-none">
           <i class="fas fa-angle-right mr-2"></i>
           Services
         </a>
       </div>
       <div class="mb-2">
-        <a href="{{ route('portfolio') }}" class="text-white">
+        <a href="{{ route('portfolio') }}" class="text-white text-decoration-none">
           <i class="fas fa-angle-right mr-2"></i>
           Portfolio
         </a>
       </div>
       <div class="mb-2">
-        <a href="{{ route('contactus') }}" class="text-white">
+        <a href="{{ route('contactus') }}" class="text-white text-decoration-none">
           <i class="fas fa-angle-right mr-2"></i>
           Contact us
         </a>
