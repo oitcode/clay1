@@ -4,12 +4,12 @@
 
   @include ('partials.app-top-menu-button', [
     'btnRoute' => 'main',
-    'iconFaClass' => 'fas fa-shopping-cart',
+    'iconFaClass' => 'fas fa-building',
     'btnText' => 'HOME',
   ])
   @include ('partials.app-top-menu-button', [
     'btnRoute' => 'aboutus',
-    'iconFaClass' => 'fas fa-tools',
+    'iconFaClass' => 'fas fa-star',
     'btnText' => 'ABOUT US',
   ])
   @include ('partials.app-top-menu-button', [
@@ -19,12 +19,12 @@
   ])
   @include ('partials.app-top-menu-button', [
     'btnRoute' => 'portfolio',
-    'iconFaClass' => 'fas fa-users',
+    'iconFaClass' => 'fas fa-shopping-cart',
     'btnText' => 'PORTFOLIO',
   ])
   @include ('partials.app-top-menu-button', [
     'btnRoute' => 'contactus',
-    'iconFaClass' => 'fas fa-chart-line',
+    'iconFaClass' => 'fas fa-message',
     'btnText' => 'CONTACT US',
   ])
 
