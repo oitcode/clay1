@@ -1,24 +1,8 @@
 @extends('website.base')
 
 @section('content')
-@if (false)
-<div class="container-fluid mb-5" style="background-image: url('../img/bg-image-3.jpg');">
-    
-  <div class="container mb-0">
-    <div class="d-flex flex-column justify-content-center" style="height: 500px;">
-      <h2>
-        Civil Engineering
-      </h2>
 
-      <button class="btn btn-primary" href="" style="width: 100px;">
-        Contact us
-      </button>
-    </div>
-  </div>
-</div>
-@endif
-
-<div class="continer-fluid bg-primary">
+<div class="continer-fluid bg-primary o-fade-in">
   <div class="row">
     <div class="col-md-6">
       <div class="d-flex flex-column justify-content-center h-100 pl-5">
@@ -441,17 +425,14 @@
   <div class="container">
     <h2>
       <i class="fas fa-quote-left mr-3"></i>
-      What our clients say
+      Our team
     </h2>
   </div>
 </div>
 
-<div class="continer-fluid">
-  <div class="container d-flex">
-  </div>
-</div>
+@include ('partials.our-team')
 
-
+@if (false)
 <div class="container">
             <div id="demo" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
@@ -493,5 +474,6 @@
               </div>
               
 </div>
+@endif
 
 @endsection
