@@ -108,11 +108,11 @@
           </span>
         </div>
 
-        <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+        <a href="{{ route('aboutus') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
           <span class="h5">
           Read more
           </span>
-        </button>
+        </a>
 
       </div>
     </div>
@@ -145,11 +145,11 @@
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -165,11 +165,11 @@
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -185,11 +185,11 @@
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -208,11 +208,11 @@
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -228,11 +228,11 @@
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -248,11 +248,11 @@
             <p class="text-secondary h5 mb-3">
               Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services') }}" class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>

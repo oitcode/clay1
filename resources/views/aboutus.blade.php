@@ -63,12 +63,6 @@
           </span>
         </div>
 
-        <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
-          <span class="h5">
-          Read more
-          </span>
-        </button>
-
       </div>
     </div>
   </div>
