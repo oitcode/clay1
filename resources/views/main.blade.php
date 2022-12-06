@@ -282,7 +282,7 @@
         <div class="card">
           <div class="card-body text-center">
             <h3 class="h1" style="font-weight: bold;">
-              60
+              200+
             </h3>
             <p style="font-size: 1.3rem;">
               Clients
@@ -294,7 +294,7 @@
         <div class="card">
           <div class="card-body text-center">
             <h3 class="h1" style="font-weight: bold;">
-              43
+              300+
             </h3>
             <p style="font-size: 1.3rem;">
               Projects
@@ -306,10 +306,10 @@
         <div class="card">
           <div class="card-body text-center">
             <h3 class="h1" style="font-weight: bold;">
-              5
+              60+
             </h3>
             <p style="font-size: 1.3rem;">
-              Branches
+              Districts
             </p>
           </div>
         </div>
@@ -318,7 +318,7 @@
         <div class="card">
           <div class="card-body text-center">
             <h3 class="h1" style="font-weight: bold;">
-              8
+              11+
             </h3>
             <p style="font-size: 1.3rem;">
               Years Experience

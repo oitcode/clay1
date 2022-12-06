@@ -20,7 +20,7 @@
             <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
             <h3 class="h5 text-center text-secondary">
-              Senior Engineer
+              Civil Engineer
             </h3>
           </div>
         </div>
@@ -31,9 +31,9 @@
         <div class="card">
           <div class="card-body p-0" style="background-color: #d9f1ff;">
             <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
-            <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
+            <h3 class="h4 mt-4 text-center" style="color: #004;">Er Rishikesh Pokhrel</h3>
             <h3 class="h5 text-center text-secondary">
-              Senior Engineer
+              Hydrologist
             </h3>
           </div>
         </div>
@@ -44,9 +44,9 @@
         <div class="card">
           <div class="card-body p-0" style="background-color: #d9f1ff;">
             <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
-            <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
+            <h3 class="h4 mt-4 text-center" style="color: #004;">Er Menan Rai</h3>
             <h3 class="h5 text-center text-secondary">
-              Senior Engineer
+              Civil Engineer
             </h3>
           </div>
         </div>
@@ -57,9 +57,9 @@
         <div class="card">
           <div class="card-body p-0" style="background-color: #d9f1ff;">
             <img src="{{ asset('img/testimonial-user-1.png') }}" class="img-fluid w-100">
-            <h3 class="h4 mt-4 text-center" style="color: #004;">Er Uday Neupane</h3>
+            <h3 class="h4 mt-4 text-center" style="color: #004;">Manju Devkota</h3>
             <h3 class="h5 text-center text-secondary">
-              Senior Engineer
+              Admin
             </h3>
           </div>
         </div>
