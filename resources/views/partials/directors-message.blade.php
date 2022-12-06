@@ -7,7 +7,7 @@
         </span>
 
         <h2 class="h1 mt-3 mb-4" style="font-family: Arial; font-weight: bold;">
-          Directors message
+          Message from our CEO
         </h2>
 
         <p class="h5 mb-3">
@@ -25,7 +25,7 @@
         <div class="h5">
           <div class="mb-2">
             Er Uday Neupane<br/>
-            Chairman<br/>
+            CEO<br/>
           </div>
           <i class="fas fa-phone mr-2"></i>
           +977  9841871994<br/>

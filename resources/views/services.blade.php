@@ -20,7 +20,7 @@
     Services
     </span>
     <h2 class="h1 mt-3 mb-4" style="color: #004; font-family: Arial; font-weight: bold;">
-      Civil Engineering Solutions
+      Civil and Geotechnical Engineering
     </h2>
   </div>
 
@@ -36,7 +36,7 @@
               Geotechnical investigation
             </h2>
             <p class="text-secondary h5 mb-3">
-              Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
+              We perform surface exploration and subsurface exploration of a site including soil testing and much more. 
             </p>
             <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
@@ -56,7 +56,7 @@
               Design Works
             </h2>
             <p class="text-secondary h5 mb-3">
-              Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
+              We do design works for building, bridge and many other types of constructions.
             </p>
             <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
@@ -76,7 +76,7 @@
               Protection works design
             </h2>
             <p class="text-secondary h5 mb-3">
-              Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
+              We do protection works design and our designs have helped our clients complete their high quaity project.
             </p>
             <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
@@ -99,7 +99,7 @@
               Slope stability analysis 
             </h2>
             <p class="text-secondary h5 mb-3">
-              Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
+              We evaluate the stability of earth and rock-fill dams, embankments, excavated slopes, and natural slopes in soil and rock.
             </p>
             <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
@@ -119,7 +119,7 @@
               Topographical survey
             </h2>
             <p class="text-secondary h5 mb-3">
-              Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
+              We also work on recording the coordinates and elevation (height) data of natural and artificial features within a designated survey area.
             </p>
             <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
@@ -139,7 +139,7 @@
               Construction supervision
             </h2>
             <p class="text-secondary h5 mb-3">
-              Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.
+              We provide supervision of construction works so that the project meets the enigneering and quality standards.
             </p>
             <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
@@ -154,6 +154,7 @@
   </div>
 </div>
 
+@if (false)
 {{-- Client testimonials --}}
 <div class="container-fluid bg-primary text-white py-4">
   <div class="container">
@@ -211,4 +212,5 @@
               </div>
               
 </div>
+@endif
 @endsection
