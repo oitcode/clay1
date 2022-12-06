@@ -31,15 +31,15 @@
         </h2>
 
         <p class="text-secondary h5 mb-3">
-          Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-          Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-          sed stet lorem sit clita duo justo magna dolore erat amet
+          Clay engineering consultancy is one of the best civil and
+          geotechnical engineering consultancy in Nepal providing high
+          quality engineering work throughout the nation.
         </p>
 
         <p class="text-secondary h5 mb-4">
-          Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-          Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-          sed stet lorem sit clita duo justo magna dolore erat amet
+          Our team of highly skilled engineers and technicians have the
+          invaluable experience that will deliver the high quality work
+          that is needed for your project.
         </p>
 
         <div class="mb-2">
