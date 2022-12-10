@@ -38,11 +38,12 @@
             <p class="text-secondary h5 mb-3">
               We perform surface exploration and subsurface exploration of a site including soil testing and much more. 
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services-geotechnical-investigation') }}"
+                class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -58,11 +59,12 @@
             <p class="text-secondary h5 mb-3">
               We do design works for building, bridge and many other types of constructions.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services-design-works') }}"
+                class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -78,11 +80,12 @@
             <p class="text-secondary h5 mb-3">
               We do protection works design and our designs have helped our clients complete their high quaity project.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services-protection-works-design') }}"
+                class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -101,11 +104,12 @@
             <p class="text-secondary h5 mb-3">
               We evaluate the stability of earth and rock-fill dams, embankments, excavated slopes, and natural slopes in soil and rock.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services-slope-stability-analysis') }}"
+                class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -121,11 +125,12 @@
             <p class="text-secondary h5 mb-3">
               We also work on recording the coordinates and elevation (height) data of natural and artificial features within a designated survey area.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services-topographical-survey') }}"
+                class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -141,11 +146,12 @@
             <p class="text-secondary h5 mb-3">
               We provide supervision of construction works so that the project meets the enigneering and quality standards.
             </p>
-            <button class="btn btn-primary badge-pill mt-3 p-3 px-5">
+            <a href="{{ route('services-construction-supervision') }}"
+                class="btn btn-primary badge-pill mt-3 p-3 px-5">
               <span class="h5">
               Read more
               </span>
-            </button>
+            </a>
           </div>
         </div>
       </div>

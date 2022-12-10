@@ -33,6 +33,30 @@ Route::get('/contactus', function () {
     return view('contactus');
 })->name('contactus');
 
+Route::get('/services/geotechnical_investigation', function () {
+    return view('services-geotechnical-investigation');
+})->name('services-geotechnical-investigation');
+
+Route::get('/services/design_works', function () {
+    return view('services-design-works');
+})->name('services-design-works');
+
+Route::get('/services/protection_works_design', function () {
+    return view('services-protection-works-design');
+})->name('services-protection-works-design');
+
+Route::get('/services/slop_stability_analysis', function () {
+    return view('services-slope-stability-analysis');
+})->name('services-slope-stability-analysis');
+
+Route::get('/services/topographical_survey', function () {
+    return view('services-topographical-survey');
+})->name('services-topographical-survey');
+
+Route::get('/services/construction_supervision', function () {
+    return view('services-construction-supervision');
+})->name('services-construction-supervision');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
