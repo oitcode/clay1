@@ -65,28 +65,46 @@
         Services
       </div>
       <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
-        Geotechnical investigation
+        <a href="{{ route('services-geotechnical-investigation') }}"
+            class="text-white text-decoration-none">
+          <i class="fas fa-angle-right mr-2"></i>
+          Geotechnical investigation
+        </a>
       </div>
       <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
-        Design works
+        <a href="{{ route('services-design-works') }}"
+            class="text-white text-decoration-none">
+          <i class="fas fa-angle-right mr-2"></i>
+          Design works
+        </a>
       </div>
       <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
-        Protection works design
+        <a href="{{ route('services-protection-works-design') }}"
+            class="text-white text-decoration-none">
+          <i class="fas fa-angle-right mr-2"></i>
+          Protection works design
+        </a>
       </div>
       <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
-        Slope stability analysis
+        <a href="{{ route('services-slope-stability-analysis') }}"
+            class="text-white text-decoration-none">
+          <i class="fas fa-angle-right mr-2"></i>
+          Slope stability analysis
+        </a>
       </div>
       <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
-        Topographical survey
+        <a href="{{ route('services-topographical-survey') }}"
+            class="text-white text-decoration-none">
+          <i class="fas fa-angle-right mr-2"></i>
+          Topographical survey
+        </a>
       </div>
       <div class="mb-2">
-        <i class="fas fa-angle-right mr-2"></i>
-        Construction supervision
+        <a href="{{ route('services-construction-supervision') }}"
+            class="text-white text-decoration-none">
+          <i class="fas fa-angle-right mr-2"></i>
+          Construction supervision
+        </a>
       </div>
     </div>
 
