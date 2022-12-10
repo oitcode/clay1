@@ -24,12 +24,12 @@
       <div>
         @if (true)
           <a href="" target="_blank">
-            <div class="float-left text-primary" style="">
+            <div class="float-left text-info" style="">
               <i class="fab fa-facebook mr-3 fa-2x"></i>
             </div>
           </a>
         @endif
-        @if (true)
+        @if (false)
           <a href="" target="_blank">
             <div class="float-left text-info" style="">
               <i class="fab fa-twitter mr-3 fa-2x"></i>
@@ -38,8 +38,8 @@
         @endif
         @if (true)
           <a href="" target="_blank">
-            <div class="float-left text-danger" style="">
-              <i class="fab fa-instagram mr-3 fa-2x"></i>
+            <div class="float-left text-info" style="">
+              <i class="fab fa-linkedin mr-3 fa-2x"></i>
             </div>
           </a>
         @endif
@@ -146,8 +146,8 @@
 
     @if (true)
     <div class="col-md-2" style="font-size: 1rem;">
-      <div class="text-white">
-        Just do it!
+      <div class="mb-3" style="font-size: 1.3rem; font-weight: bold;">
+        Map
       </div>
     </div>
     @endif
