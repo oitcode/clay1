@@ -10,4 +10,9 @@ class ContactUsMessage extends Component
     {
         return view('livewire.contact-us-message');
     }
+
+    public function woof()
+    {
+        dd ('Woof woof');
+    }
 }

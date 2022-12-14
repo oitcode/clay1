@@ -20,7 +20,7 @@
 
       {{-- Card 1 --}}
       <div class="col-md-4">
-        <div class="d-flex border p-5 h-100" style="background-color: #d9f1ff;">
+        <div class="d-flex border p-5 h-100" style="background-color: #f5f5f5;">
           <div class="d-flex flex-column justify-content-center">
             <i class="fas fa-map-marker-alt fa-2x mr-3 text-primary"></i>
           </div>
@@ -37,7 +37,7 @@
 
       {{-- Card 2 --}}
       <div class="col-md-4">
-        <div class="d-flex border px-3 py-5 h-100" style="background-color: #d9f1ff;">
+        <div class="d-flex border px-3 py-5 h-100" style="background-color: #f5f5f5;">
           <div class="d-flex flex-column justify-content-center">
             <i class="fas fa-phone fa-2x mr-3 text-primary"></i>
           </div>
@@ -54,7 +54,7 @@
 
       {{-- Card 3 --}}
       <div class="col-md-4">
-        <div class="d-flex border px-3 py-5 h-100" style="background-color: #d9f1ff;">
+        <div class="d-flex border px-3 py-5 h-100" style="background-color: #f5f5f5;">
           <div class="d-flex flex-column justify-content-center">
             <i class="fas fa-envelope fa-2x mr-3 text-primary"></i>
           </div>
