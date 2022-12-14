@@ -22,7 +22,7 @@
           <thead>
             <tr class="bg-success text-white" style="font-size: 1.1rem;">
               <th style="width: 120px;">
-                Message ID
+                ID
               </th>
               <th style="width: 200px;">
                 Name

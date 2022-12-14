@@ -12,6 +12,15 @@
     </span>
   </h2>
 
+  @if (session()->has('message'))
+    <div class="alert alert-success alert-dismissible fade show mx-3-rm my-2 mb-4" role="alert">
+      {{ session('message') }}
+      <button type="button" class="close text-white" data-dismiss="alert" aria-label="Close">
+        <span class="text-danger" aria-hidden="true">&times;</span>
+      </button>
+    </div>
+  @endif
+
   <div class="form-group">
     <input type="text" class="form-control" wire:model.defer="name" placeholder="Name">
     @error ('name') <small><span class="text-danger">{{ $message }}</span></small> @enderror

@@ -29,6 +29,15 @@ class ContactUsMessage extends Component
 
         ContactMessage::create($validatedData);
 
-        dd ('Message sent!');
+        $this->resetInputFields();
+        session()->flash('message', 'Your message is sent. We will get back soon!');
+    }
+
+    public function resetInputFields()
+    {
+        $this->name = '';
+        $this->email = '';
+        $this->phone = '';
+        $this->message = '';
     }
 }
