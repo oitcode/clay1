@@ -11,6 +11,8 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
+    <!-- Chartjs -->
+    <script src="{{ asset('js/chart.js') }}"></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -18,15 +20,50 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendor/fontawesome-free/css/all.css') }}" rel="stylesheet">
+
+    <style>
+      html, body {
+        overflow-x: hidden;
+      }
+    </style>
+
+
+    <!-- Livewire -->
+    @livewireStyles
 </head>
 <body>
-    <div id="app">
-        @include ('partials.top-menu')
+  <div class="mb-5">
+    <div class="row">
+      {{-- App left menu --}}
+      <div class="col-md-1">
+        @include ('partials.app-left-menu')
+      </div>
 
+      {{-- Mobile top menu --}}
+      <div class="d-md-none col-md-12">
+        @include ('partials.mobile-top-menu')
+      </div>
 
-        <main class="py-4">
-            @yield('content')
-        </main>
+      <div class="col-md-11">
+        {{-- App top menu --}}
+        @include ('partials.app-top-menu')
+
+        {{-- Content goes here --}}
+        @yield('content')
+
+      </div>
     </div>
+  </div>
+
+  @if (env('APP_FOOTER') == true)
+    {{-- Screen-bottom info bar --}}
+    <div class="fixed-bottom">
+      @include ('partials.app-footer')
+    </div>
+  @endif
+
+  <!-- Livewire scripts -->
+  @livewireScripts
 </body>
 </html>

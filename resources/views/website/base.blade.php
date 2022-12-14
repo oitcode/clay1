@@ -22,6 +22,9 @@
 
     <!-- FB OG Meta tags -->
     @yield('fbOgMetaTags')
+
+    <!-- Livewire -->
+    @livewireStyles
 </head>
 <body>
   @if (false && ! $company)
@@ -72,5 +75,8 @@
 
   </div>
   @endif
+
+{{-- Livewire --}}
+@livewireScripts
 </body>
 </html>

@@ -60,3 +60,26 @@ Route::get('/services/construction_supervision', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+
+/*
+ *-----------------------------------------------------------------------------
+ * Dashboard routes
+ *-----------------------------------------------------------------------------
+ *
+ * Routes for the dashboard side of this application.
+ *
+ *
+ */
+
+/* Dashboard */
+Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
+
+/* Contact message */
+Route::get('/dashboard/contact_message', function () {
+    return 'COMING SOON';
+})->name('dashboard-contact-message');
