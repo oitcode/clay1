@@ -5,6 +5,7 @@
       {{ Auth::user()->name }}
     </button>
     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu2">
+      @if (false)
       <a class="dropdown-item" href="">
         <i class="fas fa-home text-secondary mr-2"></i>
         Company
@@ -31,6 +32,7 @@
         v0.2.9
       </a>
       <div class="dropdown-divider mb-0"></div>
+      @endif
       <a class="dropdown-item mb-0" href="{{ route('logout') }}"
           onclick="event.preventDefault();
               document.getElementById('logout-form').submit();"

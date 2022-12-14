@@ -80,6 +80,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 
 /* Contact message */
-Route::get('/dashboard/contact_message', function () {
-    return 'COMING SOON';
-})->name('dashboard-contact-message');
+Route::get('/dashboard/contact_message', 'ContactMessageController@index')->name('dashboard-contact-message');

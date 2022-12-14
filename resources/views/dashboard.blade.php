@@ -50,6 +50,15 @@
     @endif
   @endif
 
+  @if (false)
   @livewire ('contact-message-component')
+  @endif
+
+  <div>
+    <h2 class="h4">
+      <span class="text-primary">Web</span>
+      <span class="text-muted">CMS</span>
+    </h2>
+  </div>
 
 @endsection
