@@ -50,4 +50,6 @@
     @endif
   @endif
 
+  @livewire ('contact-message-component')
+
 @endsection
