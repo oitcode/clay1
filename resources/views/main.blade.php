@@ -56,13 +56,16 @@
   </div>
 </div>
 
+@if (true)
 {{-- First para --}}
 <div class="container-fluid py-4 mb-5">
   <div class="container">
     <div class="row">
       {{-- Image --}}
       <div class="col-md-6">
-        <img src="{{ asset('img/bg-image-2.jpg') }}" class="img-fluid">
+        <div class="d-flex flex-column justify-content-center h-100">
+          <img src="{{ asset('img/geotechnical-investigation-1.jpg') }}" class="img-fluid">
+        </div>
       </div>
 
       {{-- Text --}}
@@ -118,6 +121,7 @@
     </div>
   </div>
 </div>
+@endif
 
 {{-- Services --}}
 @include ('partials.services')
