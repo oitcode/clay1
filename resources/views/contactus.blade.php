@@ -80,7 +80,19 @@
       @livewire ('contact-us-message')
     </div>
     <div class="col-md-6">
-      <img src="{{ asset('img/bg-image-3.jpg') }}" class="img-fluid">
+      <div class="d-flex flex-column justify-content-start h-100">
+        <div class="bg-primary mb-2" style="height: 20px;"></div>
+        <div class="bg-info mb-2" style="height: 20px;"></div>
+        <div class="bg-secondary mb-2" style="height: 20px;"></div>
+        <div class="bg-secondary mb-2" style="height: 20px;"></div>
+        <div class="bg-light mb-2" style="height: 20px;"></div>
+        <div>
+          <img src="{{ asset('img/client-5.png') }}" class="img-fluid h-100">
+        </div>
+      </div>
+      @if (false)
+      <img src="{{ asset('img/contact-us-bg-6.png') }}" class="img-fluid h-100">
+      @endif
     </div>
   </div>
 </div>
