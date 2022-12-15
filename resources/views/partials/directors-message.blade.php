@@ -1,7 +1,7 @@
-<div class="container-fluid bg-primary mb-5">
+<div class="container-fluid bg-primary text-white mb-5 border">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 py-5 text-white">
+      <div class="col-md-6 py-5 text-white-rm">
         <span class="border badge badge-pill" style="font-size: 1.3rem;">
         Message
         </span>

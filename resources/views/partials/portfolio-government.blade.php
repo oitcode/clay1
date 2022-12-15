@@ -17,10 +17,10 @@
       {{-- Work 1 --}}
       <div class="col-md-4 mb-3">
         <div class="card">
-          <div class="card-body p-0" style="background-color: #d9f1ff;">
+          <div class="card-body p-0" style="background-color: #f5f5f5;">
             <img src="{{ asset('img/about-mission.jpg') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Alpha beta gamma</h3>
-            <div class="p-2 h5 text-secondary">
+            <div class="p-2 h5 text-secondary text-center">
               Aenean volutpat, dolor eu finibus rhoncus, elit felis vehicula nunc,
             </div>
           </div>
@@ -30,10 +30,10 @@
       {{-- Work 2 --}}
       <div class="col-md-4 mb-3">
         <div class="card">
-          <div class="card-body p-0" style="background-color: #d9f1ff;">
+          <div class="card-body p-0" style="background-color: #f5f5f5;">
             <img src="{{ asset('img/about-vision.jpg') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Alpha beta gamma</h3>
-            <div class="p-2 h5 text-secondary">
+            <div class="p-2 h5 text-secondary text-center">
               Aenean volutpat, dolor eu finibus rhoncus, elit felis vehicula nunc,
             </div>
           </div>
@@ -43,10 +43,10 @@
       {{-- Work 3 --}}
       <div class="col-md-4 mb-3">
         <div class="card">
-          <div class="card-body p-0" style="background-color: #d9f1ff;">
+          <div class="card-body p-0" style="background-color: #f5f5f5;">
             <img src="{{ asset('img/about-objective.jpg') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Alpha beta gamma</h3>
-            <div class="p-2 h5 text-secondary">
+            <div class="p-2 h5 text-secondary text-center">
               Aenean volutpat, dolor eu finibus rhoncus, elit felis vehicula nunc,
             </div>
           </div>
@@ -75,10 +75,10 @@
       {{-- Work 1 --}}
       <div class="col-md-4 mb-3">
         <div class="card">
-          <div class="card-body p-0" style="background-color: #d9f1ff;">
+          <div class="card-body p-0" style="background-color: #f5f5f5;">
             <img src="{{ asset('img/about-mission.jpg') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Alpha beta gamma</h3>
-            <div class="p-2 h5 text-secondary">
+            <div class="p-2 h5 text-secondary text-center">
               Aenean volutpat, dolor eu finibus rhoncus, elit felis vehicula nunc,
             </div>
           </div>
@@ -88,10 +88,10 @@
       {{-- Work 2 --}}
       <div class="col-md-4 mb-3">
         <div class="card">
-          <div class="card-body p-0" style="background-color: #d9f1ff;">
+          <div class="card-body p-0" style="background-color: #f5f5f5;">
             <img src="{{ asset('img/about-vision.jpg') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Alpha beta gamma</h3>
-            <div class="p-2 h5 text-secondary">
+            <div class="p-2 h5 text-secondary text-center">
               Aenean volutpat, dolor eu finibus rhoncus, elit felis vehicula nunc,
             </div>
           </div>
@@ -101,10 +101,10 @@
       {{-- Work 3 --}}
       <div class="col-md-4 mb-3">
         <div class="card">
-          <div class="card-body p-0" style="background-color: #d9f1ff;">
+          <div class="card-body p-0" style="background-color: #f5f5f5;">
             <img src="{{ asset('img/about-objective.jpg') }}" class="img-fluid w-100">
             <h3 class="h4 mt-4 text-center" style="color: #004;">Alpha beta gamma</h3>
-            <div class="p-2 h5 text-secondary">
+            <div class="p-2 h5 text-secondary text-center">
               Aenean volutpat, dolor eu finibus rhoncus, elit felis vehicula nunc,
             </div>
           </div>

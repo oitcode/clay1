@@ -56,8 +56,11 @@
   </div>
 </div>
 
+{{-- Services --}}
+@include ('partials.services')
+
 @if (true)
-{{-- First para --}}
+{{-- Intro para --}}
 <div class="container-fluid py-4 mb-5">
   <div class="container">
     <div class="row">
@@ -122,9 +125,6 @@
   </div>
 </div>
 @endif
-
-{{-- Services --}}
-@include ('partials.services')
 
 {{-- Why choose us --}}
 @include ('partials.why-choose-us')
