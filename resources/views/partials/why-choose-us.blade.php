@@ -84,7 +84,9 @@
       </div>
 
       <div class="col-md-6">
-        <img src="{{ asset('img/bg-image-2.jpg') }}" class="img-fluid">
+        <div class="d-none d-md-block">
+          <img src="{{ asset('img/bg-image-2.jpg') }}" class="img-fluid">
+        </div>
       </div>
     </div>
   </div>
