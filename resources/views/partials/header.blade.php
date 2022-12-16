@@ -11,7 +11,7 @@
           <a href="{{ route('main') }}" class="text-decoration-none">
             <h1 style="color: #004; font-family: Arial; font-weight: bold;">
               <i class="fas fa-check-circle mr-3"></i>
-              Clay Engineering
+              {{ env('CMP_NAME', 'Ferissan') }}
             </h1>
           </a>
         </div>

@@ -7,19 +7,19 @@
       </div>
       <div class="mb-2">
         <i class="fas fa-map-marker-alt mr-3"></i>
-        Clay Engineering Consultancy
+        {{ env('CMP_NAME', 'Ferissan') }}
       </div>
       <div class="mb-1" style="font-size: 1rem;">
         <i class="fas fa-phone mr-3"></i>
-        +977 9841871994
+        {{ env('CMP_PHONE', 'ABC') }}
       </div>
       <div class="mb-1" style="font-size: 1rem;">
         <i class="fas fa-envelope mr-3"></i>
-        clayengg12@gmail.com
+        {{ env('CMP_EMAIL', 'ABC') }}
       </div>
       <div class="mb-4" style="font-size: 1rem;">
         <i class="fas fa-map-marker-alt mr-3"></i>
-        Balkhu, Kathmandu, Nepal
+        {{ env('CMP_ADDRESS', 'ABC') }}
       </div>
       <div>
         @if (true)
@@ -156,6 +156,8 @@
   <hr />
 
   <div class="text-center-rm mt-4">
-    &copy; 2022 | Clay Engineering Consultancy Pvt Ltd | All rights reserved
+    &copy; 2022 | {{ env('CMP_NAME', 'ABC') }} | All rights reserved
+        
+        
   </div>
 </div>

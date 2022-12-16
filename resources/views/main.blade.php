@@ -1,5 +1,9 @@
 @extends('website.base')
 
+@section ('pageTitleTag')
+  <title>Clay Engineering Consultancy | Engineering Consultancy Nepal</title>
+@endsection
+
 @section('content')
 
 <div class="continer-fluid bg-primary o-fade-in">

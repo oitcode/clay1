@@ -6,7 +6,7 @@
     <div class="float-left mr-4">
       <i class="fas fa-map-marker-alt text-primary mr-2"></i>
       <span class="text-secondary" style="font-family: Arial;">
-        Balkhu, Kathmandu, Nepal
+        {{ env('CMP_ADDRESS', 'ABC') }}
       </span>
     </div>
 
@@ -40,7 +40,7 @@
     <div class="float-right mr-4">
       <i class="fas fa-phone text-primary mr-2"></i>
       <span class="text-secondary" style="font-family: Arial;">
-        +977 9841871994
+        {{ env('CMP_PHONE', 'ABC') }}
       </span>
     </div>
 
