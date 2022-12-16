@@ -1,5 +1,9 @@
 @extends('website.base')
 
+@section ('pageTitleTag')
+  <title>Contact us | Clay Engineering Consultancy</title>
+@endsection
+
 @section('content')
 <div class="continer-fluid o-top-page-banner mb-5">
   <div class="o-overlay text-white">
