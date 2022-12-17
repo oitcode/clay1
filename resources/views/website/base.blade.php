@@ -10,6 +10,9 @@
     <!-- Page title -->
     @yield('pageTitleTag')
 
+    <!-- Page title -->
+    @yield('pageDescriptionMetaTag')
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 

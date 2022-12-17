@@ -4,6 +4,10 @@
   <title>Clay Engineering Consultancy | Engineering Consultancy Nepal</title>
 @endsection
 
+@section ('pageDescriptionMetaTag')
+  <meta name="description" content="Home page of Clay Engineering Consultancy - Civil and geotechnical engineering consultancy in Nepal.">
+@endsection
+
 @section('content')
 
 <div class="continer-fluid bg-primary o-fade-in">

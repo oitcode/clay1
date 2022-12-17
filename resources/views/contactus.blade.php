@@ -4,6 +4,11 @@
   <title>Contact us | Clay Engineering Consultancy</title>
 @endsection
 
+
+@section ('pageDescriptionMetaTag')
+  <meta name="description" content="Contact us | Phone: +977 9841871994 | Email: clayengg12@gmail.com | Address: Balkhu, Kathmandu, Nepal">
+@endsection
+
 @section('content')
 <div class="continer-fluid o-top-page-banner mb-5">
   <div class="o-overlay text-white">
