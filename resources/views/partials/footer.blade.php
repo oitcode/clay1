@@ -156,8 +156,10 @@
   <hr />
 
   <div class="text-center-rm mt-4">
-    &copy; 2022 | {{ env('CMP_NAME', 'ABC') }} | All rights reserved
-        
-        
+    &copy; 2022 | {{ env('CMP_NAME', 'ABC') }} | All rights reserved |
+    Developed by 
+    <a href="https://oit.com.np">
+      OIT
+    </a>
   </div>
 </div>
